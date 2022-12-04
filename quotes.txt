@@ -1,16 +1,1 @@
-"You are likely to achieve the outcome you seek."
-"Today is not a good day to do that."
-"While it might seem unlikely, your chances are good."
-"If you believe you will be successful, that's half the battle."
-"If you cared enough to ask, you care enough to make it happen."
-"I think you already know the answer to that."
-"Stop wondering and start doing!"
-"Yes, sure, whatever, I'm busy."
-"Next Thursday might be a better day to do that."
-"Sure, but what will the neighbors think?"
-Simply tap "Shortcuts" in the action and change the location. You can save files in "On My iPhone" as well as "iCloud Drive".
-Wow, so easy, not sure how I missed that. Thanks!
-Dec 4, 2022 at 8:56 AM, at 416 Blue Rock Dr Charlotte NC 28213 United States -  It thought there was a change in iOS 15 or a point upgrade recently that was supposed to allow this? If so, how would you point to a file just sitting in your iCloud Drive?
-Dec 4, 2022 at 8:57 AM, at 416 Blue Rock Dr Charlotte NC 28213 United States -  It thought there was a change in iOS 15 or a point upgrade recently that was supposed to allow this? If so, how would you point to a file just sitting in your iCloud Drive?
-Dec 4, 2022 at 8:57 AM, at 416 Blue Rock Dr Charlotte NC 28213 United States -  It thought there was a change in iOS 15 or a point upgrade recently that was supposed to allow this? If so, how would you point to a file just sitting in your iCloud Drive?
-Dec 4, 2022 at 9:02 AM, at 416 Blue Rock Dr Charlotte NC 28213 United States -  Summary: If you file is in "/Shortcuts/..." and you want to append a file, drop the "/Shortcuts/...". If it is elsewhere, I believe you put the ...
+Dec 4, 2022 at 9:02 AM, at 416 Blue Rock Dr Charlotte NC 28213 United States - This message was brought to you by the Nicholas Ault Remember This Quote service. For more information contact your sys admin, Matt Parker that is looking for problems to solve.
